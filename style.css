@@ -1,0 +1,11 @@
+body {
+    padding-top: 30px;
+}
+
+a, a:hover, a:visited {
+    text-decoration: underline;
+}
+
+a.btn, a.btn:hover, a.btn:visited {
+    text-decoration: none;
+}
