@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/catplusplus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://catpp.eu
+  * I am catplusplus (https://keybase.io/catplusplus) on keybase.
+  * I have a public key ASDRj_lWXtgdD8ZlSGJEk48l1zrryN1V7M3OHfApoXGJ5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fd974ebaef3e21e9ed965117393743c6c6fea3f90c0006c912acc682d0e290d90a",
+      "host": "keybase.io",
+      "kid": "0120d18ff9565ed81d0fc665486244938f25d73aebc8dd55eccdce1df029a17189e70a",
+      "uid": "71b2bac9d72c7d95f37ec879fa4f2c00",
+      "username": "catplusplus"
+    },
+    "merkle_root": {
+      "ctime": 1572638545,
+      "hash": "234c63de0fb21d16c7ab47dc568ed6255a4b9ff3b8577b2abe51063f2ac5b374d0ed63da1dcc9d6acc46bd87181bae416cc4fc1a73562b58687a534c81e9c606",
+      "hash_meta": "6ede0b482432ed48dfe46b8fd3d2956dcbfc1d18dd2f88ecd022dd532488d61c",
+      "seqno": 8606523
+    },
+    "service": {
+      "entropy": "zbArSu5RNzkD/eaaisa4fhsT",
+      "hostname": "catpp.eu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1572638552,
+  "expire_in": 504576000,
+  "prev": "94f405bb7e836840ae58fdca5ab97e0259ffff68ff80db19ec71239192090df3",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0Y/5Vl7YHQ/GZUhiRJOPJdc668jdVezNzh3wKaFxiecKp3BheWxvYWTESpcCKcQglPQFu36DaECuWP3KWrl+Aln//2j/gNsZ7HEjkZIJDfPEIMo/EEC0EN5wtSTzkXFmhzAMa4eJjKH/NwbP8gJ0X3qNAgHCo3NpZ8RAj0KhVNpWt4nSeSjzoT9J7FHVlcKDRAfHRfn94ZFa8wKA0npcD2M2fB/JAIJrSA+vRlpilwV0VPmmU9QHaxibDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGbdxlpF16OeLuVNgxKqJWynVez8Zck7beyGJl//Glwbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/catplusplus
+
+==================================================================
