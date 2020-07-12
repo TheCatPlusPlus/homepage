@@ -1,11 +1,41 @@
-body {
-    padding-top: 30px;
+html
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18pt;
+    line-height: 1em;
 }
 
-a, a:hover, a:visited {
+a, a:hover, a:visited
+{
     text-decoration: underline;
 }
 
-a.btn, a.btn:hover, a.btn:visited {
+a.btn, a.btn:hover, a.btn:visited
+{
     text-decoration: none;
+}
+
+#main
+{
+    width: 480px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#main ul
+{
+    list-style: none;
+    padding: 0;
+}
+
+#main ul > li
+{
+    display: inline-block;
+}
+
+#main ul > li:not(:last-child)::after
+{
+    content: "|";
+    margin-left: 0.45em;
+    margin-right: 0.25em;
 }
